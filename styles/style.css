@@ -89,8 +89,9 @@ a{
 }
 .new-btn{
     font-size: 20px;
-    background-color: rgba(199, 208, 212, 0.993);
-    color: black;
+    background-color:rgb(48, 13, 9);
+    color: rgb(36, 13, 13);
+    border:2px;
     border-radius: 5%;
     border-color: #01081a;
 }
