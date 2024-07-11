@@ -1,0 +1,190 @@
+
+
+.azeret-mono-normal{
+  font-family: "Azeret Mono";
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.header {
+  background-image: url("../assets/Hero-bg.png");
+}
+.banner {
+  background: url("../assets/Hero-bg.png");
+  background-repeat:no-repeat ;
+  height: 680px;
+  
+}
+
+.banner {
+    background: url('../asset/Hero-bg');
+    height: 680px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.content {
+    text-align: center;
+    background-color:transparent;
+    box-shadow: none;
+    padding: 20px;
+    border-radius:0;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+
+.banner-img{
+    width: 250px;
+    height: 230px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 20px 0;
+}
+
+.pain-text{
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #0D1321;
+}
+
+button{
+    background-color:#0D1321;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+a{
+    font-size: 20px;
+    text-decoration:none;
+    color: aliceblue;
+}
+.first-div{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+.main-text{
+    font-size: 32;
+}
+.second-div{
+    display:flex ;
+    justify-content: space-around;
+    margin-left:30px;
+    margin-right:30px;
+}
+.third-div{
+    justify-content: center;
+    align-items: center;
+
+}
+.new-btn{
+    font-size: 20px;
+    background-color: rgba(199, 208, 212, 0.993);
+    color: black;
+    border-radius: 5%;
+    border-color: #01081a;
+}
+#video{
+    text-align: center;
+    border-radius: 10px;
+}
+/* skills section */
+.skills-container{
+    display: flex;
+    gap: 24px;
+    margin: 5px;
+    width: 100%;
+  
+}
+.skill{
+    padding: 30px;
+    /* box-shadow: 0px 3px 5px 0px; */
+    background-color: #EBEBEB;
+
+
+}
+
+
+/* footer section */
+
+.footoo{
+    margin-top: 50px;
+}
+
+.section1{
+    background: url('../assets/handshake.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 50px 0;
+    /* color: white; */
+    text-align: center;
+    margin-left: 128px;
+    margin-right: 128px;
+    border-radius: 10px;
+   
+
+
+   }
+
+.footer-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.footer-container h1 {
+    margin: 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.footer-container p {
+    margin: 20px 0;
+   
+}
+
+#apple{
+    border-radius: 5px;
+    margin-right:0px;
+    height: 40px;
+    width: 230px;
+    border: none;
+    color: #01081a;
+}
+#vai{
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    background-color: bisque;
+    color: black;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#icon2{
+    margin-right: 10px;
+}
+.icon1{
+    margin-left: 10px;
+}
+.final{
+    margin-top:40px;
+}
+#me1{
+    color: antiquewhite;
+}
+#me2{
+    color: antiquewhite;
+}
